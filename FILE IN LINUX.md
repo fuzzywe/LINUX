@@ -1,5 +1,7 @@
 The **Security Copy Protocol (SCP)** is a network protocol used for secure file transfer between a local host and a remote host over a secure channel. It is part of the **Secure Shell (SSH)** protocol suite and provides encryption for data during transmission, ensuring the confidentiality and integrity of the files being transferred.
 
+a file you need to print the lines containing a pattern along with line number. To which i answered partially using grep and pipe so he was okay with it.
+
 ### Key features of SCP:
 1. **Security**: SCP uses SSH for authentication and encryption, ensuring that the transferred data is secure from eavesdropping or tampering.
 2. **File Transfer**: It allows for the copying of files or directories between local and remote systems, or between two remote systems.
