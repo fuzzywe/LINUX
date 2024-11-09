@@ -1,5 +1,8 @@
 The **Security Copy Protocol (SCP)** is a network protocol used for secure file transfer between a local host and a remote host over a secure channel. It is part of the **Secure Shell (SSH)** protocol suite and provides encryption for data during transmission, ensuring the confidentiality and integrity of the files being transferred.
 
+Then he asked me some linux commands.., what is scp, how scp is different from cp, there’s a file you need to fine the lines containing your name, this I answered partially using grep and pipe.
+
+
 a file you need to print the lines containing a pattern along with line number. To which i answered partially using grep and pipe so he was okay with it.
 
 ### Key features of SCP:
