@@ -25,3 +25,7 @@
 ![Linux Basic Commands in Tamil _ Linux Terminal Basics _ Linux Full Course 50-40 screenshot](https://github.com/user-attachments/assets/e24af862-1491-40f0-98d8-a9fea194ce23)
 ![Linux Basic Commands in Tamil _ Linux Terminal Basics _ Linux Full Course 56-51 screenshot](https://github.com/user-attachments/assets/1e5ca8e2-77cb-4bc0-a21f-f078a02e9bb6)
 ![Linux Basic Commands in Tamil _ Linux Terminal Basics _ Linux Full Course 57-50 screenshot](https://github.com/user-attachments/assets/03262ab0-5cc9-449e-9e88-25436058a08e)
+
+
+![Linux Advanced commands - Part 1 _ Linux Information Gathering Commands _ Linux full course 0-44 screenshot](https://github.com/user-attachments/assets/74f3978d-b0c5-4eda-9ed3-53c562974d56)
+![Linux Advanced commands - Part 1 _ Linux Information Gathering Commands _ Linux full course 2-0 screenshot](https://github.com/user-attachments/assets/8aad2e79-88be-4cf9-8ea0-392197bfead5)
